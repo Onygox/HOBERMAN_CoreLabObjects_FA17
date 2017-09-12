@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Rube.data.unityweb",
+"asmCodeUrl": "Rube.asm.code.unityweb",
+"asmMemoryUrl": "Rube.asm.memory.unityweb",
+"asmFrameworkUrl": "Rube.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
